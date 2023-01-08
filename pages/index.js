@@ -48,7 +48,7 @@ export default function Home() {
             In addition to his academic pursuits, Roosevelt is also an avid
             basketball player and can often be found practicing his skills on
             the court. He is a talented athlete and has even considered joining
-            the university's basketball team.
+            the university\'s basketball team.
             <br></br>
             <br></br>
             Aside from his love of basketball, Roosevelt is also passionate
@@ -70,11 +70,11 @@ export default function Home() {
             such as beach cleanups and food drives.
             <br></br>
             <br></br>
-            When he's not busy with schoolwork, extracurricular activities, or
+            When he\'s not busy with schoolwork, extracurricular activities, or
             volunteering, Roosevelt enjoys spending time with his family. He has
             a close-knit group of relatives who he loves to visit and spend time
             with, especially during the holidays. Roosevelt is also a sociable
-            person and enjoys spending time with his peers, whether it's
+            person and enjoys spending time with his peers, whether it\'s
             studying together or simply hanging out.
             <br></br>
             <br></br>
